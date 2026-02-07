@@ -20,6 +20,7 @@ export default function RootLayout({
 
   return (
     <html lang="en">
+      <title>Tahwul</title>
       <body className={`${cairo.variable} antialiased`}>
         <div className="flex min-h-screen bg-slate-50 relative overflow-x-hidden">
           <Sidebar

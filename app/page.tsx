@@ -23,7 +23,7 @@ import {
   ACTIVITIES,
   PERFORMANCE_DATA,
   AUDIT_READINESS,
-} from "./lib/constants/constants";
+} from "@/lib/constants/constants";
 
 const Dashboard = () => {
   return (
