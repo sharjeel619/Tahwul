@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-primary: #1d3557;
+  --color-success: #1ea54e;
+  --color-warning: #f59f0a;
+  --color-info: #0078d7;
+  --color-error: #f50a0a;
+  --color-red: #db1f26;
+  --color-secondary: #8597a8;
+  --color-muted: #e0e8ed;
+  --color-grey: #f5f8fb;
+  --color-grey1: #f5f8fa;
+  --color-accent-green: #34c759;
+  --color-accent-yellow: #ffcc00;
+  --font-sans: var(--font-cairo);
+}
+
+body {
+  font-family: var(--font-cairo);
+  background: var(--color-grey1);
+}
