@@ -14,7 +14,7 @@ bun dev
 
 Visit [http://localhost:3000](http://localhost:3000) to view the project locally.
 OR
-Visit [sharjeel-tahwul.netlify.app](sharjeel-tahwul.netlify.app) to view the live demo.
+Visit [sharjeel-tahwul.netlify.app](https://sharjeel-tahwul.netlify.app) to view the live demo.
 
 ### Tech Stack used
 
